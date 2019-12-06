@@ -1,1 +1,50 @@
+body{
+    font-family: 'PT Sans', sans-serif;
+    text-align: center;
+    height:100vh;
+    background: #1e5799; /* Old browsers */
+    background: -moz-linear-gradient(-45deg,  #C9082A 50%, #17408B 50%); /* FF3.6+ */
+    background: -webkit-linear-gradient(-45deg, #C9082A 50%, #17408B 50%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(-45deg, #C9082A 50%, #17408B 50%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(-45deg,  #C9082A 50%, #17408B 50%); /* IE10+ */
+}
 
+h1{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 5rem;
+    line-height: 0.9;
+    color: #fff;
+    margin-top: 2rem;
+}
+
+.accordion{
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 5rem;
+    margin-bottom: 9rem;
+}
+
+.card-header{
+    background-color: #fff;
+}
+
+.card-header .btn-link{
+    color: black;
+}
+
+.btn-light{
+    width: 10rem;
+}
+
+@media (max-width: 576px) { 
+    h1{
+        font-size: 2.5rem;
+        margin-top: 0.5rem;
+    }
+
+    .accordion{
+        width: 100%;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    }
+ }
