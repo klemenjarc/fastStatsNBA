@@ -24,13 +24,9 @@ Further interaction on other pages will be possible with clicking on links.
 
 ## 3rd Party API(s)
 
-I will be probably using one of the following:
+I will be using:
 
-- https://www.balldontlie.io
-- https://rapidapi.com/api-sports/api/api-nba/endpoints
 - http://data.nba.net/10s/prod/v1/today.json
-
-I haven't yet made final decision because those free NBA APIs may not have all desired features.
 
 ## Tech Stack
 
