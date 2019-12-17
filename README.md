@@ -44,3 +44,6 @@ HTML, CSS, Bootstrap and Javascript
 - I will use project management tool trello https://trello.com/b/FWNtAX3f/fast-stats-nba
 - Will try to commit my code every day.
 - I will mostly follow existing simple design used in Google suggested snippet that serves me as inspiration, but will use https://wireframe.cc/ too.
+
+## Deployed website
+https://klemenjarc.github.io/fastStatsNBA/
